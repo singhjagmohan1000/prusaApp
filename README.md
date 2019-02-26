@@ -1,2 +1,0 @@
-# prusaApp
-Created with CodeSandbox
